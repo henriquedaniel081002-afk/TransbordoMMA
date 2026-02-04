@@ -96,7 +96,6 @@ const FilterPanel: React.FC<FilterPanelProps> = ({ filters, setFilters, availabl
       <div className="space-y-2">
         <label className="text-sm font-medium text-muted">Busca (Produto/Desc)</label>
         <Input 
-          placeholder="Ex: Soja, Trigo..." 
           value={filters.search}
           onChange={(e) => setFilters(prev => ({ ...prev, search: e.target.value }))}
         />

@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Transbordo",
+  "description": "Dashboard analítico para visualização de transferências entre depósitos com filtros avançados e design responsivo.",
+  "requestFramePermissions": []
+}

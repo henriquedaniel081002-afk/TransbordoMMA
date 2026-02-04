@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04 16:51:18",
+  "updatedAt": "2026-02-04 20:56:41",
   "transfers": [
     {
       "data": "2025-11-07",
@@ -1218,14 +1218,6 @@
       "quantidade": 30.0
     },
     {
-      "data": "4717-05-15",
-      "deposito_saida": "1-300",
-      "deposito_entrada": "1-700",
-      "produto": "1029024",
-      "descricao": "PAPEL OFFSET SV 70GM2 660X960MM C/500FLS - MMA UNICA",
-      "quantidade": 42.0
-    },
-    {
       "data": "2025-12-02",
       "deposito_saida": "1-300",
       "deposito_entrada": "1-700",
@@ -2344,14 +2336,6 @@
       "produto": "1039002",
       "descricao": "PAPEL BARREIRA DE GORDURA 37.4GM2 500X700MM C/400FLS MMA UNICA",
       "quantidade": 201.0
-    },
-    {
-      "data": "1900-01-01",
-      "deposito_saida": "1-300",
-      "deposito_entrada": "1-700",
-      "produto": "1028015",
-      "descricao": "PAPEL CARTAO DUPLEX CKB 200GM2 700X960MM PCT C/100FLS MMA UNICA",
-      "quantidade": 60.0
     },
     {
       "data": "2025-12-29",

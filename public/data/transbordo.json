@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04 20:56:41",
+  "updatedAt": "2026-02-06 09:37:31",
   "transfers": [
     {
       "data": "2025-11-07",
@@ -1221,6 +1221,14 @@
       "data": "2025-12-02",
       "deposito_saida": "1-300",
       "deposito_entrada": "1-700",
+      "produto": "1029024",
+      "descricao": "PAPEL OFFSET SV 70GM2 660X960MM C/500FLS - MMA UNICA",
+      "quantidade": 42.0
+    },
+    {
+      "data": "2025-12-02",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
       "produto": "1028015",
       "descricao": "PAPEL CARTAO DUPLEX CKB 200GM2 700X960MM PCT C/100FLS MMA UNICA",
       "quantidade": 178.0
@@ -1506,7 +1514,7 @@
       "quantidade": 60.0
     },
     {
-      "data": "2025-02-05",
+      "data": "2024-12-05",
       "deposito_saida": "1-300",
       "deposito_entrada": "1-700",
       "produto": "1030035",
@@ -2197,6 +2205,14 @@
       "data": "2025-12-23",
       "deposito_saida": "1-300",
       "deposito_entrada": "1-700",
+      "produto": "1030048",
+      "descricao": "PAPEL OFFSET SV 90GM2 660X960MM C/250 FLS - MMA UNICA",
+      "quantidade": NaN
+    },
+    {
+      "data": "2025-12-23",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
       "produto": "1029023",
       "descricao": "PAPEL OFFSET SV 63GM2 660X960MM C/500FLS - MMA UNICA",
       "quantidade": 42.0
@@ -2336,6 +2352,14 @@
       "produto": "1039002",
       "descricao": "PAPEL BARREIRA DE GORDURA 37.4GM2 500X700MM C/400FLS MMA UNICA",
       "quantidade": 201.0
+    },
+    {
+      "data": "2026-01-29",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1028015",
+      "descricao": "PAPEL CARTAO DUPLEX CKB 200GM2 700X960MM PCT C/100FLS MMA UNICA",
+      "quantidade": 60.0
     },
     {
       "data": "2025-12-29",
@@ -4240,6 +4264,150 @@
       "produto": "1029023",
       "descricao": "PAPEL OFFSET SV 63GM2 660X960MM C/500FLS - MMA UNICA",
       "quantidade": 6.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1015008",
+      "descricao": "PAPEL SUBLIMATICO MORY PREMIUM 64GM2 1,10X100MT 2 MMA UNICA",
+      "quantidade": 176.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1028010",
+      "descricao": "PAPEL CARTAO TRIPLEX 270GM2 660X960MM PCT C/100FLS MMA-DCRE2025/28960-4 UNICA",
+      "quantidade": 35.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1027028",
+      "descricao": "BOBINA TERMICA PDV 44GM2 57X15MT BRANCO C/80UN MMA UNICA",
+      "quantidade": 45.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1028008",
+      "descricao": "PAPEL CARTAO TRIPLEX 250GM2 660X960MM PCT C/100FLS MMA DCRE: 2025/01256-4 UNICA",
+      "quantidade": 60.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1028048",
+      "descricao": "PAPEL CARTAO DUPLEX CKB 221GM2 490X660MM PCT C/200FLS",
+      "quantidade": 132.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1029024",
+      "descricao": "PAPEL OFFSET SV 70GM2 660X960MM C/500FLS - MMA UNICA",
+      "quantidade": 25.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1032027",
+      "descricao": "PAPEL COUCHE BRILHO NEVIA 170GM2 660MMX960MM C/250FLS MMA UNICA",
+      "quantidade": 25.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1028049",
+      "descricao": "PAPEL CARTAO DUPLEX CKB 221GM2 460X660MM PCT C/200FLS",
+      "quantidade": 9.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1028013",
+      "descricao": "PAPEL CARTAO TRIPLEX 210GM2 660X960MM PCT C/100FLS MMA UNICA",
+      "quantidade": 23.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1028040",
+      "descricao": "PAPEL CARTAO TRIPLEX 190GM 660X960MM PCT C/100FLS MMA UNICA",
+      "quantidade": 40.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1032029",
+      "descricao": "PAPEL COUCHE FOSCO NEVIA MMA 170GM2 660MMX960MM C/250FLS UNICA",
+      "quantidade": 38.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1028011",
+      "descricao": "PAPEL CARTAO TRIPLEX 230GM2 660X960MM PCT C/100FLS MMA UNICA",
+      "quantidade": 23.0
+    },
+    {
+      "data": "2026-02-05",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1030333",
+      "descricao": "PAPEL OFFSET SV 75GM2 660X960MM C/500FLS - MMA UNICA",
+      "quantidade": 25.0
+    },
+    {
+      "data": "2026-02-06",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1032037",
+      "descricao": "PAPEL COUCHE BRILHO NEVIA MMA 90GM2 760MMX1120MM C/250FLS",
+      "quantidade": 261.0
+    },
+    {
+      "data": "2026-02-06",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1030051",
+      "descricao": "PAPEL OFFSET SV 120GM2 960X1320MM C/200FLS-MMA UNICA",
+      "quantidade": 70.0
+    },
+    {
+      "data": "2026-02-06",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1015032",
+      "descricao": "PAPEL SUBLIMATICO MORY PLUS 61GM2 0,860X150MT 2 MMA UNICA",
+      "quantidade": 60.0
+    },
+    {
+      "data": "2026-02-06",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1028048",
+      "descricao": "PAPEL CARTAO DUPLEX CKB 221GM2 490X660MM PCT C/200FLS",
+      "quantidade": 30.0
+    },
+    {
+      "data": "2026-02-06",
+      "deposito_saida": "1-300",
+      "deposito_entrada": "1-700",
+      "produto": "1032035",
+      "descricao": "PAPEL COUCHE BRILHO SW MMA 115GM2 660X960 C/250FLS",
+      "quantidade": 30.0
     }
   ]
 }

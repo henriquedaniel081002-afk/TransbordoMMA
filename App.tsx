@@ -126,7 +126,7 @@ function App() {
       <header className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-border pb-6">
         <div>
           <h1 className="text-2xl font-bold tracking-tight text-white">Dashboard de Transbordo</h1>
-          <p className="text-sm text-muted">Última atualização: {new Date(lastUpdated).toLocaleString('pt-BR')}</p>
+          <p className="text-sm text-muted">Última atualização: {lastUpdated ? new Date(lastUpdated).toLocaleDateString('pt-BR') : '-'}</p>
         </div>
         <Button onClick={() => setIsFilterOpen(true)} className="w-full md:w-auto">
           <SlidersHorizontal className="mr-2 h-4 w-4" />
